@@ -47,4 +47,5 @@ wheel==0.41.2
 zipp==3.17.0
 folium>=0.13,!=0.15.0
 plotly==5.3.1
+branca==0.3.1
 streamlit_folium
