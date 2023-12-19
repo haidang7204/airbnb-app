@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import folium
 import numpy as np
+from streamlit_folium import folium_static
 
 
 np.random.seed(42)
@@ -85,6 +86,8 @@ for index, row in filtered_data.iterrows():
         tooltip=tooltip,
         popup=folium.Popup(details, max_width=300, min_width=200)
     ).add_to(m)
+
+folium_static(m)
 
 st.write(m._repr_html_(), unsafe_allow_html=True)
 
