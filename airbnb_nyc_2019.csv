@@ -1,0 +1,101 @@
+house_name,listing_name,borough,neighborhood,room_type,price,latitude,longitude
+Charming loft in Staten Island,Tim,Queens,Astoria,Entire home/apt,152,40.61661403621226,-74.10768774208186
+Single room in Manhattan,Tim,Manhattan,St. George,Entire home/apt,485,40.79065270861339,-74.15494064569435
+Charming loft in Staten Island,Sarah,Queens,Astoria,Entire home/apt,398,40.9315692609945,-73.68524553276455
+Single room in Manhattan,Tim,Manhattan,Williamsburg,Entire home/apt,320,40.94017998431921,-73.77010060747943
+Furnished room in Astoria apartment,Sarah,Staten Island,Astoria,Shared room,156,40.61834259684104,-74.26717247254615
+Spacious house in Queens,John,Queens,St. George,Private room,121,40.95384685317428,-74.11192926258228
+Spacious house in Queens,John,Brooklyn,Harlem,Shared room,238,40.79594436941064,-74.28447068057879
+Spacious house in Queens,John,Manhattan,Astoria,Entire home/apt,70,40.675109123350154,-73.95128436934787
+Charming loft in Staten Island,John,Manhattan,Harlem,Private room,152,40.8540905977916,-73.96665251224769
+Furnished room in Astoria apartment,Sarah,Queens,Williamsburg,Entire home/apt,171,40.74083349398206,-73.71803995695625
+Charming loft in Staten Island,John,Brooklyn,Midtown,Private room,264,40.68899379506113,-74.08455593216026
+Charming loft in Staten Island,Tim,Brooklyn,Williamsburg,Shared room,380,40.85254218214833,-73.72852998535085
+Furnished room in Astoria apartment,Tim,Staten Island,Astoria,Private room,137,40.624362077215146,-73.62241836419211
+Furnished room in Astoria apartment,Tim,Brooklyn,Harlem,Private room,422,40.66512626450955,-74.23811424364405
+Furnished room in Astoria apartment,Sarah,Brooklyn,Harlem,Private room,149,40.71722592224413,-73.74572751237125
+Furnished room in Astoria apartment,John,Brooklyn,St. George,Private room,409,40.62684108693657,-73.88703087200365
+Spacious house in Queens,John,Bronx,Harlem,Private room,201,40.70260104339071,-73.96396782308706
+Cozy apartment in Brooklyn,John,Staten Island,St. George,Entire home/apt,180,40.785736512602504,-74.00562495493445
+Cozy apartment in Brooklyn,Sarah,Manhattan,Midtown,Private room,199,40.870486930455336,-73.75073221523898
+Furnished room in Astoria apartment,Tim,Queens,Astoria,Private room,358,40.88359742655429,-73.85244705011803
+Cozy apartment in Brooklyn,Tim,Manhattan,St. George,Shared room,307,40.911395175938345,-73.73646873273644
+Cozy apartment in Brooklyn,John,Staten Island,Midtown,Private room,393,40.872105828471646,-73.66779425892635
+Furnished room in Astoria apartment,Tim,Queens,Harlem,Shared room,463,40.84051971354845,-73.86791540153189
+Cozy apartment in Brooklyn,Tim,Staten Island,Harlem,Entire home/apt,343,40.61875323564624,-73.61367609243533
+Charming loft in Staten Island,Sarah,Brooklyn,Midtown,Private room,435,40.70011144643601,-73.87433850532068
+Single room in Manhattan,Sarah,Queens,Harlem,Shared room,241,40.73885744544011,-73.8543489748644
+Single room in Manhattan,Sarah,Brooklyn,Midtown,Shared room,493,40.541445660846676,-73.91162907402044
+Furnished room in Astoria apartment,Sarah,Manhattan,St. George,Entire home/apt,326,40.76418506064861,-74.23629853626406
+Spacious house in Queens,John,Manhattan,St. George,Private room,210,40.71816791580328,-73.79152207714483
+Furnished room in Astoria apartment,Sarah,Queens,Midtown,Private room,363,40.901054624513364,-73.91678758517062
+Spacious house in Queens,Tim,Queens,St. George,Shared room,71,40.98895033437714,-73.98436268680872
+Single room in Manhattan,John,Staten Island,St. George,Private room,302,40.77800251932129,-73.6626701051177
+Furnished room in Astoria apartment,Tim,Staten Island,St. George,Shared room,285,40.661343194138794,-74.09142838392063
+Charming loft in Staten Island,Tim,Brooklyn,Williamsburg,Private room,394,40.521700391649084,-73.93347840678949
+Cozy apartment in Brooklyn,Tim,Queens,Astoria,Shared room,98,40.9623216651118,-73.81165068995458
+Spacious house in Queens,Sarah,Manhattan,Harlem,Private room,108,40.95955785763933,-73.74246975702827
+Cozy apartment in Brooklyn,Sarah,Staten Island,Williamsburg,Entire home/apt,219,40.62649508399462,-73.97845723443767
+Cozy apartment in Brooklyn,John,Staten Island,St. George,Private room,237,40.847705561553326,-73.7105360094869
+Furnished room in Astoria apartment,John,Manhattan,Midtown,Private room,320,40.537717273544885,-73.76175758107922
+Cozy apartment in Brooklyn,Sarah,Staten Island,St. George,Entire home/apt,239,40.583107715954625,-74.25363481550369
+Charming loft in Staten Island,Tim,Brooklyn,Astoria,Private room,495,40.60840455329325,-74.26789711351675
+Cozy apartment in Brooklyn,John,Queens,St. George,Entire home/apt,224,40.64724697341971,-73.86543602090453
+Furnished room in Astoria apartment,Sarah,Manhattan,Midtown,Private room,495,40.997915687514684,-74.05681061424221
+Charming loft in Staten Island,Sarah,Queens,Astoria,Shared room,100,40.84846252793191,-74.15360844624503
+Single room in Manhattan,Sarah,Staten Island,St. George,Shared room,413,40.69210091568961,-73.89424504586978
+Cozy apartment in Brooklyn,Tim,Staten Island,Astoria,Private room,104,40.86855035292151,-74.06090575268041
+Furnished room in Astoria apartment,Sarah,Manhattan,Harlem,Private room,293,40.957627170834556,-73.92391560830015
+Single room in Manhattan,Sarah,Brooklyn,Harlem,Private room,369,40.97935120370392,-73.9779165887115
+Single room in Manhattan,Sarah,Bronx,St. George,Shared room,180,40.528931948878856,-73.8906637258356
+Spacious house in Queens,Sarah,Manhattan,Astoria,Private room,356,40.69726089930406,-74.0197896577628
+Charming loft in Staten Island,John,Bronx,Midtown,Shared room,184,40.55337803296794,-73.81163269841214
+Cozy apartment in Brooklyn,John,Bronx,St. George,Entire home/apt,70,40.667830032398484,-74.17395290935549
+Furnished room in Astoria apartment,Sarah,Brooklyn,Harlem,Shared room,378,40.584839951947785,-73.81244897364104
+Spacious house in Queens,Tim,Bronx,Harlem,Shared room,216,40.823424180834365,-74.01183714994973
+Charming loft in Staten Island,John,Bronx,St. George,Entire home/apt,323,40.694134191994934,-73.6879776766019
+Spacious house in Queens,Sarah,Brooklyn,Astoria,Shared room,437,40.614697372852476,-73.93933476159505
+Charming loft in Staten Island,John,Bronx,Harlem,Private room,138,40.63296896248212,-73.61882275551092
+Charming loft in Staten Island,John,Bronx,Astoria,Private room,365,40.68017254760264,-73.87864522312132
+Cozy apartment in Brooklyn,Tim,Bronx,Harlem,Shared room,63,40.62997493142713,-74.14330565386557
+Charming loft in Staten Island,Sarah,Manhattan,Harlem,Private room,291,40.72662042341442,-73.72474655420888
+Spacious house in Queens,Sarah,Manhattan,Williamsburg,Shared room,314,40.516157975554826,-74.05844216052432
+Charming loft in Staten Island,Tim,Manhattan,Harlem,Private room,395,40.639881753584476,-74.05666654986211
+Cozy apartment in Brooklyn,Tim,Brooklyn,Midtown,Private room,102,40.70560336043609,-74.27773672296038
+Cozy apartment in Brooklyn,Sarah,Staten Island,St. George,Shared room,435,40.80139094101165,-73.91589928355481
+Spacious house in Queens,Sarah,Bronx,St. George,Private room,389,40.635478821257564,-73.92590354738724
+Single room in Manhattan,Tim,Bronx,Astoria,Shared room,141,40.56659256261187,-74.0508059610096
+Single room in Manhattan,John,Brooklyn,Harlem,Private room,416,40.53810018979958,-73.67404791597285
+Charming loft in Staten Island,John,Bronx,Midtown,Private room,493,40.970265913567694,-74.20987612119025
+Furnished room in Astoria apartment,Tim,Manhattan,Astoria,Entire home/apt,477,40.70831952886924,-74.06893034068288
+Charming loft in Staten Island,John,Staten Island,Williamsburg,Entire home/apt,313,40.79058131059041,-74.07489206472398
+Spacious house in Queens,Tim,Queens,Astoria,Shared room,480,40.95958827591778,-74.23539658963988
+Spacious house in Queens,John,Bronx,Astoria,Entire home/apt,84,40.54137421001765,-73.96319822416059
+Spacious house in Queens,John,Manhattan,Harlem,Shared room,255,40.9383307429629,-73.81855069803274
+Spacious house in Queens,Sarah,Queens,Williamsburg,Entire home/apt,130,40.77579393627204,-73.94184009051692
+Spacious house in Queens,Sarah,Staten Island,Astoria,Private room,469,40.5824171305685,-74.19011562209866
+Cozy apartment in Brooklyn,John,Queens,Midtown,Shared room,99,40.70562755829268,-74.03589982433054
+Single room in Manhattan,John,Manhattan,Midtown,Shared room,409,40.88880114186761,-74.29818348293145
+Spacious house in Queens,Sarah,Queens,St. George,Private room,437,40.74018504093318,-73.69218922507508
+Furnished room in Astoria apartment,Sarah,Brooklyn,Williamsburg,Shared room,51,40.992643025332754,-74.24083809462351
+Furnished room in Astoria apartment,Sarah,Queens,Williamsburg,Shared room,439,40.68836948496897,-73.88190534242119
+Furnished room in Astoria apartment,Tim,Bronx,St. George,Entire home/apt,103,40.87478914998803,-73.60962010289322
+Furnished room in Astoria apartment,John,Bronx,Astoria,Shared room,155,40.696494724489426,-73.92438654780887
+Cozy apartment in Brooklyn,Sarah,Brooklyn,Williamsburg,Private room,309,40.91458211035326,-73.65317076862479
+Furnished room in Astoria apartment,John,Manhattan,Midtown,Entire home/apt,359,40.784540734582876,-74.13471842681781
+Spacious house in Queens,Tim,Bronx,Midtown,Entire home/apt,240,40.531755914795,-73.76803121374368
+Charming loft in Staten Island,Tim,Staten Island,Harlem,Private room,451,40.518410933818,-73.92811397221853
+Furnished room in Astoria apartment,Sarah,Bronx,Williamsburg,Private room,267,40.566926059400316,-73.79563875702597
+Cozy apartment in Brooklyn,Tim,Bronx,Astoria,Entire home/apt,93,40.5068359824135,-74.25636104624213
+Cozy apartment in Brooklyn,John,Manhattan,St. George,Shared room,211,40.537679530176234,-74.19658263566564
+Furnished room in Astoria apartment,Sarah,Queens,St. George,Entire home/apt,251,40.845857198584454,-74.20681814998876
+Charming loft in Staten Island,John,Bronx,Astoria,Private room,495,40.76717313751473,-73.81898414621766
+Furnished room in Astoria apartment,John,Brooklyn,Harlem,Entire home/apt,319,40.87495537473499,-73.70889152915646
+Cozy apartment in Brooklyn,Tim,Queens,St. George,Private room,400,40.95658287612882,-73.77526863759398
+Single room in Manhattan,Tim,Staten Island,Williamsburg,Entire home/apt,353,40.79257476616274,-74.27866949308648
+Spacious house in Queens,Tim,Manhattan,Harlem,Shared room,320,40.86306042203592,-73.69294951324768
+Cozy apartment in Brooklyn,Tim,Staten Island,Williamsburg,Entire home/apt,264,40.87854060102123,-74.05209733044481
+Furnished room in Astoria apartment,Tim,Queens,Midtown,Entire home/apt,301,40.688925274637896,-74.02198531724714
+Spacious house in Queens,Sarah,Queens,Harlem,Private room,239,40.62054241616482,-74.22659158342726
+Furnished room in Astoria apartment,John,Queens,St. George,Private room,345,40.602522664253264,-73.78381635573432
+Furnished room in Astoria apartment,John,Staten Island,Harlem,Private room,262,40.6257212197559,-74.17240128506683
